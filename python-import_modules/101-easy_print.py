@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-import python_for_me
+exec("import builtins\nbuiltins.print('#pythoniscool')")
 
